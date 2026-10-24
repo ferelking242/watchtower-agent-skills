@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.cache/
+.local/
+.agents/
+/.replit
+node_modules/
+.DS_Store
+*.log
